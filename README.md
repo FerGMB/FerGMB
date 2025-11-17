@@ -1,48 +1,36 @@
-# Hello world! 👋 Soy Fernando Guevara
+# Hi there! 👋 I'm Fernando
 
-¡Bienvenido a mi perfil de GitHub! Entusiasta de la ciencia de datos, machine learning y las matemáticas! 
-
-Aprendiendo constantemente sobre temas que me apasionan, resolviendo problemas un modelo a la vez.
+Welcome to my corner of GitHub! I am passionate about data, mathematics, and the power of artificial intelligence to solve complex problems.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-* 🎓 Egresado de **Ingeniería en Ciencia de Datos y Matemáticas** del **Tec de Monterrey**, graduado en 2023.
-* 🧠 Actualmente cursando la **Maestría en Inteligencia Artificial Aplicada**, también en el **Tec de Monterrey**.
-* 💡 Siempre estoy en busca de nuevos retos y oportunidades para aplicar machine learning en proyectos del mundo real.
+* 🗺️ Currently based in Prague, Czech Republic.
+* 🎓 I hold a B.S. in **Data Science and Mathematics Engineering** from **Tec de Monterrey**, Class of 2023.
+* 🧠 Currently pursuing a **Master's in Applied Artificial Intelligence**, also at **Tec de Monterrey**.
+* 💡 I'm always looking for new challenges and opportunities to apply machine learning and deep learning to real-world projects.
+---
+
+## 🌱 What I'm Currently Working On
+
+* 🧠 Deepening my knowledge in MLOps and Software Development as part of my master's program.
+* 🚀 Focusing on the end-to-end MLOps lifecycle.
+* 📖 Actively specializing in Natural Language Processing (NLP) and Large Language Models (LLMs).
+---
+
+## 📫 How to Reach Me
+
+I'd love to connect! Feel free to send me an e-mail!
+
+* [**Email**](mailto:A00828723@tec.mx)
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
-
-* **Lenguajes:** Python, SQL
-* **Machine Learning:** Scikit-learn
-* **Data Science / Visualización:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-* **Bases de Datos:** MySQL
-* **Herramientas y Plataformas:** Git
-
----
-
-## 🌱 En qué estoy trabajando
-
-* 🤖 Profundizando mis conocimientos en MLOps y desarrollo de software como parte de mi maestría.
-* 🔭 Creando herramientas que implementen modelos de aprendizaje automático en mi trabajo.
-
----
-
-## 📫 ¡Conecta conmigo!
-
-¡Me encantaría conectar contigo! No dudes en contactarme.
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerGMB&show_icons=true&theme=radical" alt="Estadísticas de GitHub de [Tu Nombre]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerGMB&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerGMB&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerGMB&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-- ⚡ Fun fact: Mi juego de mesa favorito es Bohnanza!
