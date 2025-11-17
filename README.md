@@ -6,4 +6,4 @@ This is the account I use for the Master's assingments!
 --- 
 
 ## Feel free to reach me in my personal Github account 
-* [**Gitub**](https://github.com/Fer0400)
+* [**Github**](https://github.com/Fer0400)
